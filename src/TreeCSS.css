@@ -1,0 +1,18 @@
+#btnNode {
+	position: absolute;
+	z-index: 9;
+	text-align: center;
+	border: 1px solid #d3d3d3;
+	cursor: move;
+}
+
+#node {
+	display: inline-block;
+	position: absolute;
+	z-index: 9;
+	border: 1px solid #d3d3d3;
+	cursor: move;
+	background-color: #fafce6;
+	
+	text-align: center;
+}
